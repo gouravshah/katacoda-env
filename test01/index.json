@@ -5,10 +5,6 @@
   "time": "",
   "details": {
     
-    "intro": {
-      "courseData": "courseBase.sh",
-    },
-
     "steps": [
       {
         "title": "Step 1",
@@ -32,7 +28,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "courseBase.sh"
     },
     "finish": {
       "text": "finish.md"
